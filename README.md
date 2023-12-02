@@ -3,13 +3,13 @@
 This machine learning project, "Dragon Real Estate - Price Predictor," is designed to predict housing prices based on various features. The project leverages the power of Python and key libraries to preprocess data, build a predictive model, and deploy it for real-world use.
 
 **Tech Stack and Key Libraries:**
-- **Python:** 
-- **Pandas:** 
-- **NumPy:** 
-- **Matplotlib:** 
-- **Scikit-learn:** 
-- **Joblib:** 
-- **Jupyter Notebooks:** 
+- **Python** 
+- **Pandas** 
+- **NumPy** 
+- **Matplotlib** 
+- **Scikit-learn** 
+- **Joblib** 
+- **Jupyter Notebook** 
 
 **Key Steps:**
 1. **Data Exploration and Analysis:** Pandas is utilized to explore the dataset, understand its structure, and perform statistical analysis. Matplotlib is employed to create visualizations that highlight key correlations between different features.
